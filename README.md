@@ -9,7 +9,7 @@ _The following instructions will allow you to use this script on your computer._
 
 + [ADB Drivers](https://developer.android.com/studio/releases/platform-tools)
 + [F-Droid](https://f-droid.org/es/)
-+ [Developer settings on your device]
++ [Developer settings on your device](https://developer.android.com/studio/debug/dev-options)
 
 _Also, you **must** change the path of the ADB drivers inside the quotes, **don't delete the r**._
 ```
