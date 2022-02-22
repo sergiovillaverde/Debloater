@@ -1,11 +1,10 @@
 import os
 import pandas as pd
 
-#   Obtener paquetes
 paquetes = pd.read_csv("paquetes.csv")
 com = list(paquetes)
 
-os.chdir(r"D:\Documents\Android\ADB")
+os.chdir(r"YOUR ADB DRIVERS LOCATION")
 os.system("adb devices")
 
 for item in com:
